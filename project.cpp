@@ -5,7 +5,7 @@ class a{
     protected:
     char message[100];
 
-    public:
+    
 
     //the passward of user wallet taking from user 
     void take_from_user(){
@@ -20,6 +20,4 @@ class a{
 };
 class b :protected a{
     protected:
-
-    
 };
