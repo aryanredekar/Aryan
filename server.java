@@ -1,5 +1,5 @@
-import java.net.*;
-iimport java.io.*;  
+import java.io.*;
+import java.net.*;  
 public class server{
     public static void main(String[] args) {
         try{
